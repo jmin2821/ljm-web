@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ljm-web/static/css/main.4096b2dc.css",
+    "main.js": "/ljm-web/static/js/main.8668caa6.js",
+    "static/js/453.ec3b4589.chunk.js": "/ljm-web/static/js/453.ec3b4589.chunk.js",
+    "static/media/logo.svg": "/ljm-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ljm-web/index.html",
+    "main.4096b2dc.css.map": "/ljm-web/static/css/main.4096b2dc.css.map",
+    "main.8668caa6.js.map": "/ljm-web/static/js/main.8668caa6.js.map",
+    "453.ec3b4589.chunk.js.map": "/ljm-web/static/js/453.ec3b4589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4096b2dc.css",
+    "static/js/main.8668caa6.js"
+  ]
+}
